@@ -1,9 +1,8 @@
 import json
 import requests
+import re
 from lxml import html
 from BeautifulSoup import BeautifulSoup
-import re
-import csv
 
 
 ####################
